@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Specify the location from where the source should be retrieved.
   #  Supports git, hg, bzr, svn and HTTP.
   #
-  s.version = "0.0.2"
+  # s.version = "0.0.2"
   s.source       = { :git => "https://github.com/wu948327362/WWTPods.git", :tag => s.version }
 
 
