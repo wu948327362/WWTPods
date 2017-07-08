@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4848B04F1F10EAA40093C973 /* WWTLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 4848B04E1F10EAA40093C973 /* WWTLog.m */; };
 		48A85A121F10AE4A00C95DFD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 48A85A111F10AE4A00C95DFD /* main.m */; };
 		48A85A151F10AE4A00C95DFD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 48A85A141F10AE4A00C95DFD /* AppDelegate.m */; };
 		48A85A181F10AE4A00C95DFD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 48A85A171F10AE4A00C95DFD /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4848B04D1F10EAA40093C973 /* WWTLog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WWTLog.h; sourceTree = "<group>"; };
+		4848B04E1F10EAA40093C973 /* WWTLog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WWTLog.m; sourceTree = "<group>"; };
 		48A85A0D1F10AE4A00C95DFD /* WWTPods.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WWTPods.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48A85A111F10AE4A00C95DFD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		48A85A131F10AE4A00C95DFD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				48A85A141F10AE4A00C95DFD /* AppDelegate.m */,
 				48A85A161F10AE4A00C95DFD /* ViewController.h */,
 				48A85A171F10AE4A00C95DFD /* ViewController.m */,
+				4848B04D1F10EAA40093C973 /* WWTLog.h */,
+				4848B04E1F10EAA40093C973 /* WWTLog.m */,
 				48A85A191F10AE4A00C95DFD /* Main.storyboard */,
 				48A85A1C1F10AE4A00C95DFD /* Assets.xcassets */,
 				48A85A1E1F10AE4A00C95DFD /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 				48A85A181F10AE4A00C95DFD /* ViewController.m in Sources */,
 				48A85A151F10AE4A00C95DFD /* AppDelegate.m in Sources */,
 				48A85A121F10AE4A00C95DFD /* main.m in Sources */,
+				4848B04F1F10EAA40093C973 /* WWTLog.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +304,7 @@
 				48A85A261F10AE4A00C95DFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
