@@ -24,9 +24,9 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "This is wwt first pods,it would be success,I believe it.Thanks to master."
+  s.description  = "This is wwt first pods,it would be success,I believe it.The name is WWTPlay.Thanks to master."
 
-  s.homepage     = "http://www.baidu.com"
+  s.homepage     = "https://github.com/wu948327362/WWTPods"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
